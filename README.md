@@ -34,9 +34,11 @@ This project focuses on leveraging SQL Express for data cleansing and Power BI f
   1. Data Model:
      Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI.This data model also shows how FACT_Budget tabel has been connected to   
      FACT_InternetSales table and other necessary DIMENSIONAL tables.
+     ![data model](https://github.com/JawaherCharfeddine/SalesManagmentDataAnalysisproject/blob/main/data%20model.png)
      
-  2. Data visualization (Dashboard):
+  3. Data visualization (Dashboard):
      the represented screenshot show the sales overview dashboard
+     ![dashboard](https://github.com/JawaherCharfeddine/SalesManagmentDataAnalysisproject/blob/main/sales%20overview%20dashboard.png)
 
 
 ## Technologies Used
